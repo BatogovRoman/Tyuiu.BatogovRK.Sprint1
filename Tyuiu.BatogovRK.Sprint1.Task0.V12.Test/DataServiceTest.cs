@@ -9,7 +9,9 @@ namespace Tyuiu.BatogovRK.Sprint1.Task0.V12.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
+
             var res = ds.Calculate();
+
             Assert.AreEqual(6, res);
         }
     }
