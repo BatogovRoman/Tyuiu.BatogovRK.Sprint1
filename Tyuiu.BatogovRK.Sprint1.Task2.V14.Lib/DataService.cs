@@ -1,6 +1,6 @@
-﻿
-using tyuiu.cources.programming.interfaces.Sprint1;
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.BatogovRK.Sprint1.Task2.V14.Lib
+
 {
     public class DataService : ISprint1Task2V14
     {

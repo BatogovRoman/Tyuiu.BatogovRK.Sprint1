@@ -1,4 +1,5 @@
 ﻿using Tyuiu.BatogovRK.Sprint1.Task2.V14.Lib;
+
 internal class Program
 {
     private static void Main(string[] args)
