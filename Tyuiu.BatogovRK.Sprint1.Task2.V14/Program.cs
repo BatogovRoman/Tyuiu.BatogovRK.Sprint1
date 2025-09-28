@@ -23,7 +23,6 @@ internal class Program
         Console.WriteLine("***************************************************************************");
 
         int x;
-
         Console.WriteLine("Введите температуру в градусах Кельвина:");
 
         x = Convert.ToInt32(Console.ReadLine());

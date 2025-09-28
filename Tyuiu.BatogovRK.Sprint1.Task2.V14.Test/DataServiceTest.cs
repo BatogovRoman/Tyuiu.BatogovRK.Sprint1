@@ -9,11 +9,8 @@ namespace Tyuiu.BatogovRK.Sprint1.Task2.V14.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-
             int x = 0;
-
             var res = ds.ConvertKelvinToCelsius(x);
-
             Assert.AreEqual(- 273, res);
         }
     }
