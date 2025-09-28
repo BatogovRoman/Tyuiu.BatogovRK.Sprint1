@@ -6,7 +6,9 @@ namespace Tyuiu.BatogovRK.Sprint1.Task2.V14.Lib
     {
         public int ConvertKelvinToCelsius(int value)
         {
+
             return value - 273;
+
         }
     }
 }
